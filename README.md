@@ -6,7 +6,7 @@
 ## Description
 Taking a look at Mars data.
 
-![app_image](https://cdn.mos.cms.futurecdn.net/Q4UQ2bWADBXqrRy9H3PcTo.jpg)
+![app_image](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/mars_life-sixteen_nine.jpg?VersionId=byeKFpoyKHP8zjirOLZVI8fjK.Sr4YPc)
 
 ## Table of Contents
 
